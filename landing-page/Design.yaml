@@ -1,0 +1,54 @@
+[Header]
+Background Color: #3498DB
+Text Color: #FFFFFF
+Logo Font: Orbitron (Bold, 700)
+Navigation Links Font: Roboto (Medium, 500)
+Navigation Links Color: #FFFFFF
+
+[Hero Section]
+Background Color: #FFFFFF
+Hero Title Font: Orbitron (Bold, 700)
+Hero Title Color: #3498DB
+Tagline Font: Roboto (Regular, 400)
+Tagline Color: #333333
+Button Font: Roboto (Medium, 500)
+Button Background Color: #3498DB
+Button Text Color: #FFFFFF
+
+[Features Section]
+Background Color: #F5F5F5
+Section Title Font: Orbitron (Bold, 700)
+Section Title Color: #333333
+Subsection Title Font: Roboto (Medium, 500)
+Subsection Title Color: #3498DB
+Description Text Font: Roboto (Regular, 400)
+Description Text Color: #333333
+
+[Headphone Details Section]
+Background Color: #FFFFFF
+Section Title Font: Orbitron (Bold, 700)
+Section Title Color: #3498DB
+Subsection Title Font: Roboto (Medium, 500)
+Subsection Title Color: #333333
+Description Text Font: Roboto (Regular, 400)
+Description Text Color: #333333
+
+[Testimonials Section]
+Background Color: #F5F5F5
+Section Title Font: Orbitron (Bold, 700)
+Section Title Color: #333333
+Testimonial Text Font: Roboto (Regular, 400)
+Testimonial Text Color: #333333
+
+[Call to Action Section]
+Background Color: #00E6B8
+CTA Title Font: Roboto (Medium, 500)
+CTA Title Color: #FFFFFF
+Button Font: Roboto (Medium, 500)
+Button Background Color: #FFFFFF
+Button Text Color: #00E6B8
+
+[Footer]
+Background Color: #3498DB
+Text Color: #FFFFFF
+Font for Footer Links: Roboto (Regular, 400)

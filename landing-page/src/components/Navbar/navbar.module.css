@@ -1,0 +1,67 @@
+/* navbar.module.css */
+
+.navbar {
+  background-color: #1f1f1f;
+  height: 60px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+}
+
+.logo {
+  font-family: "Orbitron", sans-serif;
+  color: #fff;
+  font-weight: 700;
+  font-size: 24px;
+  padding: 10px;
+}
+
+.logo strong {
+  color: #7700ff;
+}
+
+.menuItems {
+  color: #fff;
+  margin-right: 50px;
+  width: 500px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.menuItem {
+  transition: color 0.3s ease-in-out;
+}
+
+.menuItem:hover {
+  color: #7700ff;
+}
+
+/* Hamburger Icon (Menu Icon) */
+.hamburger_menu {
+  display: none; /* Initially hide the hamburger menu */
+  cursor: pointer;
+  font-size: 24px;
+  color: #fff;
+  padding: 10px;
+}
+
+/* Media Query for Mobile View */
+@media (max-width: 768px) {
+  .logo {
+    font-size: 20px; /* Decrease font size for smaller screens */
+  }
+
+  /* Show the hamburger menu icon */
+  .hamburger_menu {
+    display: block;
+  }
+
+  /* Hide the regular menu items */
+  .menuItems {
+    display: none;
+  }
+}

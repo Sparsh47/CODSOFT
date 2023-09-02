@@ -1,0 +1,77 @@
+/* Footer.module.css */
+
+/* Footer container */
+.footer {
+  background-color: #3498db;
+  background-color: #1f1f1f;
+  padding: 40px 0;
+}
+
+/* Content container */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Columns */
+.column {
+  flex: 1;
+  text-align: center;
+  margin: 0 10px;
+}
+
+/* Title */
+.title {
+  font-size: 18px;
+  font-weight: 600;
+  color: #ccc;
+}
+
+/* Information */
+.info {
+  font-size: 14px;
+  color: #ccc;
+  margin-bottom: 5px;
+}
+
+/* Links */
+.link {
+  font-size: 14px;
+  color: #ccc;
+  text-decoration: none;
+  margin-bottom: 5px;
+  margin-inline: 5px;
+}
+
+.link:hover {
+  color: #7700ff;
+}
+
+/* Social icons */
+.socialIcons {
+  display: flex;
+  justify-content: center;
+}
+
+.icon {
+  font-size: 24px;
+  color: #ccc;
+  margin: 0 5px;
+  text-decoration: none;
+}
+
+.icon:hover {
+  color: #7700ff;
+}
+
+/* Copyright */
+.copyRight {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 12px;
+  color: #ccc;
+}
