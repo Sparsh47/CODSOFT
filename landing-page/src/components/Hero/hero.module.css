@@ -130,3 +130,20 @@
     padding: 0.5rem 1rem; /* Adjust button padding for smaller screens */
   }
 }
+
+@media (max-width: 600px) {
+  .title {
+    font-size: 30px;
+  }
+  .tagline {
+    font-size: 14px;
+  }
+
+  .cta {
+    .cta {
+      width: 150px;
+      font-size: 14px; /* Decrease font size for smaller screens */
+      padding: 0.5rem 1rem; /* Adjust button padding for smaller screens */
+    }
+  }
+}
